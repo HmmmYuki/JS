@@ -8,6 +8,6 @@ var MavariableNumerique = 100;
 var Mavariabletableau = ['Apple', 'Banana'] ;
 
 //des objets (ici la fenetre du navigateur)
-var MavariableObjet = window ;
+var MavariableObjet = window.innerWidth ;
 
 alert (MavariableString + MavariableNumerique + Mavariabletableau[0] + MavariableObjet.location.pathname )
