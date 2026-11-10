@@ -1,0 +1,2 @@
+Quand est-ce qu'est modifié la variable de surveillance de la taille nu navigateur ?
+On voit la variable bougé instantanément
