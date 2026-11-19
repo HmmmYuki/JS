@@ -1,0 +1,4 @@
+Quand est-ce qu'est modifié la variable de surveillance de la taille nu navigateur ?
+On voit la variable bougé instantanément
+
+1. La valeur à saisir pour tomber dans le cas N°2 est 200.
